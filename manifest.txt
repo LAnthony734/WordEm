@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: wordem.GameLauncher
+Class-Path: jars/sqlite-jdbc-3.36.0.3.jar
+Created-By: 18.0.1 (Oracle Corporation)
+
